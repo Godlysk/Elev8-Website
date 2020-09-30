@@ -1,14 +1,14 @@
 var plugins = [{
-      plugin: require('/Users/tanaynistala/Websites/Elev8-Website/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('D:/VS Code Git/Elev8Gatsby/Elev8-Website/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/tanaynistala/Websites/Elev8-Website/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('D:/VS Code Git/Elev8Gatsby/Elev8-Website/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"gatsby-personal-website-starter","short_name":"starter","start_url":"/","background_color":"#81e6d9","theme_color":"#81e6d9","display":"minimal-ui","icon":"src/assets/images/gatsby-icon.png"},
     },{
-      plugin: require('/Users/tanaynistala/Websites/Elev8-Website/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('D:/VS Code Git/Elev8Gatsby/Elev8-Website/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/tanaynistala/Websites/Elev8-Website/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('D:/VS Code Git/Elev8Gatsby/Elev8-Website/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
