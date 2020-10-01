@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Elev8`,
+    title: `Team Elev8 | 7539`,
     description: `FIRST Robotics Competition Team Elev8, from Mumbai, India`,
     author: `Team Elev8`
   },
@@ -46,7 +46,7 @@ module.exports = {
         background_color: `#81e6d9`,
         theme_color: `#81e6d9`,
         display: `minimal-ui`,
-        icon: `src/assets/images/gatsby-icon.png`
+        icon: `src/assets/images/elev8-icon.png`
       }
     },
     `gatsby-plugin-offline`,
