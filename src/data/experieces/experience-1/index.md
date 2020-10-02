@@ -1,5 +1,5 @@
 ---
-category: 'achievements'
+category: 'experiences'
 company: 'Forge Inc'
 position: 'UI/UX Designer'
 startDate: 'Mar 2010'

@@ -4,8 +4,6 @@ import Layout from 'components/Layout';
 import SEO from 'components/SEO';
 import Container from 'components/ui/Container';
 import TitleSection from 'components/ui/TitleSection';
-import Button from 'components/ui/Button';
-import {Link} from "gatsby"
 
 const NotFoundPage: React.FC = () => (
   <Layout>
@@ -13,11 +11,6 @@ const NotFoundPage: React.FC = () => (
     <Container section>
       <TitleSection title="404" subtitle="Page not found" center />
       <p className="mt-4 text-center w-full">You just hit a route that doesn&#39;t exist... the sadness.</p>
-      <Link to="/" style={{margin: "2em auto"}}>
-        <Button primary block>
-          Take me home!
-        </Button>
-      </Link>
     </Container>
   </Layout>
 );

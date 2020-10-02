@@ -1,9 +1,9 @@
 ---
-category: 'achievements'
+category: 'experiences'
 company: 'Aizoon Reply'
 position: 'UI/UX Designer'
 startDate: 'Jan 2011'
-endDate: 'Jun 2011'
+endDate: 'May 2013'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

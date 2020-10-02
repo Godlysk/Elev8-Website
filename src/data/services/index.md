@@ -1,5 +1,5 @@
 ---
-category: "services section"
-title: "Principles"
-subtitle: "What we do"
+category: 'services section'
+title: 'Services'
+subtitle: 'What I do'
 ---

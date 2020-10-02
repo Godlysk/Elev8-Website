@@ -14,16 +14,7 @@ import {
 import { FontAwesomeIcon, FontAwesomeIconProps } from '@fortawesome/react-fontawesome';
 
 /* add any additional icon to the library */
-library.add(
-  fab, 
-  faLaptopCode, 
-  faDrawPolygon, 
-  faEdit,
-  faBullhorn, 
-  faMapMarkerAlt, 
-  faPhone, 
-  faPaperPlane
-  );
+library.add(fab, faLaptopCode, faDrawPolygon, faEdit, faEdit, faBullhorn, faMapMarkerAlt, faPhone, faPaperPlane);
 
 export type IconProps = FontAwesomeIconProps['icon'];
 

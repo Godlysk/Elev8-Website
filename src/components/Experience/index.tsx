@@ -24,14 +24,14 @@ interface Experience {
 const Experience: React.FC = () => {
   const { markdownRemark, allMarkdownRemark } = useStaticQuery(graphql`
     query {
-      markdownRemark(frontmatter: { category: { eq: "achievements section" } }) {
+      markdownRemark(frontmatter: { category: { eq: "experiences section" } }) {
         frontmatter {
           title
           subtitle
         }
       }
       allMarkdownRemark(
-        filter: { frontmatter: { category: { eq: "achievements" } } }
+        filter: { frontmatter: { category: { eq: "experiences" } } }
         sort: { order: DESC, fields: fileAbsolutePath }
       ) {
         edges {
@@ -51,13 +51,13 @@ const Experience: React.FC = () => {
   `);
 
   const sectionTitle: SectionTitle = markdownRemark.frontmatter;
-  const achievements: Experience[] = allMarkdownRemark.edges;
+  const experiences: Experience[] = allMarkdownRemark.edges;
 
   return (
     <Container section>
       <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} />
 
-      {achievements.map((item) => {
+      {experiences.map((item) => {
         const {
           id,
           html,

@@ -6,12 +6,8 @@ export interface StyledProps {
 }
 
 export const InfoBlock = styled.div<StyledProps>`
-  ${tw`flex flex-col my-4 mx-3 p-4 bg-white rounded-lg`};
+  ${tw`flex flex-col my-4 mx-3 p-4 bg-white rounded-lg border border-gray-300`};
   ${({ center }) => center && tw`items-center`};
-
-  margin: 1em 1em;
-  background: white;
-  box-shadow: 0px 4px 50px rgba(0, 0, 0, 0.05);
 `;
 
 export const Icon = styled.span`

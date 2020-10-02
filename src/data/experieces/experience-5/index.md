@@ -1,5 +1,5 @@
 ---
-category: 'achievements'
+category: 'experiences'
 company: 'The Great Gasby Inc'
 position: 'CEO & Founder'
 startDate: 'Jan 2018'
