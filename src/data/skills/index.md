@@ -1,5 +1,5 @@
 ---
 category: 'skills section'
-title: 'Skills'
-subtitle: 'Tecnologies & Tools'
+title: 'Involvement'
+subtitle: 'What our team members do?'
 ---
