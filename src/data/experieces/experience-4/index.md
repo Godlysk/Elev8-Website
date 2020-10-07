@@ -1,9 +1,9 @@
 ---
 category: 'experiences'
-company: 'Netlify'
-position: 'Senior Frontend Developer'
-startDate: 'Jun 2015'
-endDate: 'Jan 2018'
+company: 'Highest Rookie Seed'
+position: '2019 SBPLI Long Island #1 Regional'
+startDate: '2019'
+endDate: 'DESTINATION: DEEP SPACE'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Highest Rookie Seed
