@@ -40,8 +40,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-personal-website-starter`,
-        short_name: `starter`,
+        name: `FRC Team 7539 | Elev8`,
+        short_name: `Elev8`,
         start_url: `/`,
         background_color: `#81e6d9`,
         theme_color: `#81e6d9`,

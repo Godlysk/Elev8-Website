@@ -40,9 +40,6 @@ const Education: React.FC = () => {
             html
             frontmatter {
               university
-              degree
-              startDate
-              endDate
             }
           }
         }
@@ -61,17 +58,18 @@ const Education: React.FC = () => {
         const {
           id,
           html,
-          frontmatter: { university, degree, startDate, endDate }
+          frontmatter: { university }
         } = item.node;
 
         return (
           <Timeline
             key={id}
             title={university}
-            subtitle={degree}
+            subtitle={""}
             content={<FormatHtml content={html} />}
-            startDate={startDate}
-            endDate={endDate}
+            startDate={""}
+            endDate={""}
+            showDate={false}
           />
         );
       })}

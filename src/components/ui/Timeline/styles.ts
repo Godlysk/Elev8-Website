@@ -18,7 +18,7 @@ export const Content = styled.div`
 `;
 
 export const Title = styled.div`
-  ${tw`font-semibold mt-3`};
+  ${tw`font-semibold`};
 `;
 
 export const Subtitle = styled.div`
@@ -26,7 +26,7 @@ export const Subtitle = styled.div`
 `;
 
 export const Date = styled.div`
-  ${tw`text-xs border  border-teal-400 rounded-full px-2`};
+  ${tw`text-xs border  border-teal-400 rounded-full px-2 mb-3`};
   width: fit-content;
 `;
 

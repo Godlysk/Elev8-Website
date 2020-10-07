@@ -8,15 +8,18 @@ interface Props {
   content: React.ReactNode;
   startDate: string;
   endDate: string;
+  showDate: boolean;
 }
 
-const Timeline: React.FC<Props> = ({ title, subtitle, content, startDate, endDate }) => (
+const Timeline: React.FC<Props> = ({ title, subtitle, content, startDate, endDate, showDate }) => (
   <Styled.Timeline>
     <Styled.Point />
     <Styled.Details>
-      <Styled.Date>
-        {startDate} - {endDate}
-      </Styled.Date>
+      {showDate &&
+        <Styled.Date>
+          {startDate} - {endDate}
+        </Styled.Date>
+      }
       <Styled.Title>{title}</Styled.Title>
       <Styled.Subtitle>{subtitle}</Styled.Subtitle>
     </Styled.Details>

@@ -72,6 +72,7 @@ const Experience: React.FC = () => {
             content={<FormatHtml content={html} />}
             startDate={startDate}
             endDate={endDate}
+            showDate={true}
           />
         );
       })}
