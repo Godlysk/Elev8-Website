@@ -1,6 +1,6 @@
 ---
 category: 'experiences'
-company: "FIRST Dean's List Award"
+company: "FIRST Dean's List Finalist Award - Dirgh Shah"
 position: '2019 SBPLI Long Island #1 Regional'
 startDate: '2019'
 endDate: 'DESTINATION: DEEP SPACE'
