@@ -1,5 +1,5 @@
 ---
 category: 'skills'
 title: 'Outreach'
-percentage: 58
+percentage: 100
 ---
