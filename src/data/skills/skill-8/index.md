@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'Illustrator'
+title: 'Raising Awareness'
 percentage: 41
 ---
