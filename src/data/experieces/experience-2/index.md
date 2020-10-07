@@ -1,11 +1,9 @@
 ---
 category: 'experiences'
-company: 'Aizoon Reply'
-position: 'UI/UX Designer'
-startDate: 'Jan 2011'
-endDate: 'May 2013'
+company: 'FIRST Dean's List Award'
+position: '2019 SBPLI Long Island #1 Regional'
+startDate: '2019'
+endDate: 'DESTINATION: DEEP SPACE'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In an effort to recognize the leadership and dedication of FIRST’s most outstanding secondary school students, the Kamen family sponsors awards for selected 10th or 11th grade* students known as the FIRST Robotics Competition®  and the FIRST Tech Challenge FIRST Dean’s List Award.
