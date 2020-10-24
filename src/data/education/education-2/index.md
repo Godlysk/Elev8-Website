@@ -1,6 +1,6 @@
 ---
 category: 'education'
-university: 'Vision'
+university: 'Our Vision'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laborist.
+We aspire to holistically prepare our team members to transform the community and become the leaders of tomorrow by building a self-sustainable society which inspires hands-on education focusing on STEAM: Science, Technology, Engineering, Arts, and Math.
