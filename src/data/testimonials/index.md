@@ -1,5 +1,5 @@
 ---
 category: "testimonials section"
-title: "Gallery"
+title: "Journal"
 subtitle: "Our Outreach Events"
 ---

@@ -1,6 +1,6 @@
 ---
-category: 'services'
-title: 'Digital Marketing'
-icon: 'bullhorn'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+category: "services"
+title: "Outreach"
+icon: "bullhorn"
+description: "Several students in India do not have the opportunity to learn about robotics, even though they have the interest and the aptitude. Outreach is all about spreading awareness of STEM and FIRST programs."
 ---
