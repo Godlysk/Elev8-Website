@@ -1,6 +1,6 @@
 ---
 category: 'education'
-university: 'Mission'
+university: 'Our Mission'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Our mission is to inspire dreamers across India by breaking gender and class stereotypes and bridging cultures to help develop a united, technology-driven world.

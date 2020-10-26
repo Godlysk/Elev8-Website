@@ -1,6 +1,6 @@
 ---
-category: 'services'
-title: 'Graphic Design'
-icon: 'draw-polygon'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+category: "services"
+title: "Construction and CAD"
+icon: "draw-polygon"
+description: "Students in the construction team work with softwares such as Autodesk Fusion360 to create CAD models of mechanisms, which they then build using power tools and industrial grade materials"
 ---
