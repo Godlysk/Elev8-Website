@@ -1,6 +1,6 @@
 ---
 category: 'blog'
-cover: './cover.jpg'
+cover: './cover.png'
 title: 'NGO Mentoring'
 description: 'We taught 10 mentors from 6 different NGOs and had an experience like no other'
 date: '2020-08-23'
